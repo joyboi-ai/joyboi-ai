@@ -12,34 +12,6 @@
 - 👯 I’m looking to collaborate on ChatGPT/AI/Blockchain
 
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Ishan+Dutta" alt="Ishan" /></a>
-  <a href="https://github.com/ishandutta2007/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=ChatGPT/AI/Blockchain;20%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
-</p>
-
-<!-- Social icons section -->
-<p align="center">
-  <a href="https://twitter.com/ishandutta2007"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/jc4xtF58Ve" alt="Discord" title="Sinularity Labs Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/ishandutta2007"><img width="32px" alt="Dev.to" title="ishandutta2007 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/ishandutta2007"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
-</p>
-
-<br/>
-
-
-
-<p align="center">
-  <a href="https://stars.github.com/profiles/ishandutta2007/">
-    <img src="https://i.imgur.com/q1PV6pF.png" alt="GitHub Star 2023"/></a>
-</p>
-
-
 
 <details> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
