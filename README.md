@@ -1,15 +1,5 @@
 ### Hi there 👋
-[![](https://github.com/ishandutta2007/ishandutta2007/blob/main/chat.svg)](https://twitter.com/ishandutta2007)
 
- <h3 align="center">A techie passionate about AI & Blockchain</h3>
- <h4 align="center"> One of Top 10 active github users from India [https://committers.top/india_private] </h4>
- <h4 align="center"> One of Top 30 Spoj users from India [SPOJ](https://www.spoj.com/ranks/users/IN/) </h4>
- <h4 align="center"> One of Top 500 stackoverflow users from India [https://data.stackexchange.com/stackoverflow/query/53058/top-users-by-country#resultSets] </h4>
- <h4 align="center"> One of Top 600 math.stackexchange users from India [https://data.stackexchange.com/math/query/53058/top-users-by-country] </h4>
-
-[![committers.top badge](https://user-badge.committers.top/india_private/vinayakkulkarni.svg)](https://user-badge.committers.top/india_private/vinayakkulkarni)[![trophy](https://github-profile-trophy.vercel.app/?username=ishandutta2007)](https://github.com/ryo-ma/github-profile-trophy)
-
-<!-- ![Ishan's GitHub stats](https://beautiful-github-homepage.vercel.app/api?username=ishandutta2007&theme=dark&show_icons=true) -->
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=ishandutta2007&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="aryashah2k" /></picture></a>
@@ -57,51 +47,14 @@
 
 <br/>
 
-<!-- Social badges section -->
-<!-- Badges with custom icons - https://github.com/ishandutta2007/custom-icon-badges -->
-<!-- View counter - https://github.com/ishandutta2007/Simple-View-Counter -->
-<p align="center">
-  <a href="https://github.com/ishandutta2007?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ishandutta2007?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/ishandutta2007?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ishandutta2007?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/ishandutta2007/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/ishandutta2007-profile-views"/></a>
-</p>
 
-<br/>
 
 <p align="center">
   <a href="https://stars.github.com/profiles/ishandutta2007/">
     <img src="https://i.imgur.com/q1PV6pF.png" alt="GitHub Star 2023"/></a>
 </p>
 
-<details open> 
-  <summary><h2>🌠 Top Sponsors</h2></summary>
 
-  <table>
-    <tr>
-      <!-- <th>$10+/month</th> -->
-      <th>$5+/month</th>
-    </tr>
-    <tr>
-      <!-- $10+/month -->
-      <!-- <td>
-        <div align="center">
-          <a href="https://github.com/username"><img src="https://github.com/username" alt="@username" width="52" /></a>
-          <br />
-          <a align="center" href="https://github.com/username"><b>Full Name</b></a>
-        </b>
-      </td> -->
-      <!-- $5+/month -->
-      <td>
-        <a href="https://github.com/typesense"><img src="https://custom-icon-badges.demolab.com/badge/-typesense-D90368?style=for-the-badge&logo=mention" alt="typesense" /></a>
-      </td>
-    </tr>
-  </table>
-
-  <a href="https://github.com/sponsors/ishandutta2007/"><img alt="More about my sponsorship tiers" title="Sponsorship Tiers" src="https://custom-icon-badges.demolab.com/badge/-More%20About%20My%20Sponsorship%20Tiers-1F222E?style=for-the-badge&logoColor=white&logo=link-external"/></a>
-</details>
 
 <details> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
