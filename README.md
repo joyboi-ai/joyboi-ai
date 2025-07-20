@@ -18,7 +18,6 @@
 <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="60" height="60" />  
 <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="60" height="60" />  
 <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="60" height="60" />  
-<img src="https://techstack-generator.vercel.app/php-icon.svg" alt="PHP" width="60" height="60" />  
 <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="60" height="60" />  
 <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="60" height="60" />  
 
